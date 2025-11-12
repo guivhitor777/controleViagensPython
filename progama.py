@@ -1,3 +1,6 @@
+from tabulate import tabulate
+from emoji import emojize
+
 from funcoes import *
 
 lista = []
